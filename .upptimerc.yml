@@ -12,8 +12,8 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: LINE Sentry 
-    url:  https://sentry9-th.line-apps.com/_health/
-  - name: [staging] Developers OAplus
+    url: https://sentry9-th.line-apps.com/_health/
+  - name: [Staging] Developers OAplus
     url: https://developers-oaplus-staging.line-rc.biz/
     expectedStatusCodes:
       - 404
