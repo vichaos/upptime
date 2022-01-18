@@ -40,19 +40,19 @@
     "url": "https://developers-oaplus-staging.line-rc.biz/",
     "icon": "https://favicons.githubusercontent.com/developers-oaplus-staging.line-rc.biz",
     "slug": "developers-o-aplus-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 841,
-    "timeWeek": 803,
-    "timeMonth": 777,
-    "timeYear": 777,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 765,
+    "timeDay": 762,
+    "timeWeek": 781,
+    "timeMonth": 765,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2022-01-18": 0
+      "2022-01-18": 29
     }
   }
 ]
