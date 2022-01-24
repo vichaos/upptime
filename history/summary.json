@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 102,
-    "timeWeek": 88,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "time": 91,
+    "timeDay": 104,
+    "timeWeek": 90,
+    "timeMonth": 91,
+    "timeYear": 91,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 549,
-    "timeWeek": 618,
-    "timeMonth": 617,
-    "timeYear": 617,
+    "time": 611,
+    "timeDay": 535,
+    "timeWeek": 605,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -46,14 +46,32 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 763,
-    "timeDay": 667,
-    "timeWeek": 760,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "time": 758,
+    "timeDay": 661,
+    "timeWeek": 751,
+    "timeMonth": 758,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2022-01-18": 29
     }
+  },
+  {
+    "name": "MyShop API",
+    "url": "https://developers-oaplus.line.biz/myshop/api/health",
+    "icon": "https://favicons.githubusercontent.com/developers-oaplus.line.biz",
+    "slug": "my-shop-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 540,
+    "timeDay": 540,
+    "timeWeek": 540,
+    "timeMonth": 540,
+    "timeYear": 540,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MyShop API with Authorization Header",
@@ -61,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/developers-oaplus.line.biz",
     "slug": "my-shop-api-with-authorization-header",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
-    "time": 517,
-    "timeDay": 517,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 387,
+    "timeDay": 387,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2022-01-24": 3
+      "2022-01-24": 19
     }
   }
 ]
