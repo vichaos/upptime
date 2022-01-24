@@ -54,5 +54,25 @@
     "dailyMinutesDown": {
       "2022-01-18": 29
     }
+  },
+  {
+    "name": "MyShop API with Authorization Header",
+    "url": "https://developers-oaplus.line.biz/myshop/api/health",
+    "icon": "https://favicons.githubusercontent.com/developers-oaplus.line.biz",
+    "slug": "my-shop-api-with-authorization-header",
+    "status": "up",
+    "uptime": "23.08%",
+    "uptimeDay": "23.08%",
+    "uptimeWeek": "23.08%",
+    "uptimeMonth": "23.08%",
+    "uptimeYear": "23.08%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-01-24": 0
+    }
   }
 ]
