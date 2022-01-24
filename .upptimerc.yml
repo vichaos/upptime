@@ -18,7 +18,7 @@ sites:
   - name: MyShop API with Authorization Header
     url: https://developers-oaplus.line.biz/myshop/api/health
     headers:
-      - "x-api-key: Bearer $MYSHOP_API_KEYS"
+      - "x-api-key: $MYSHOP_API_KEYS"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
