@@ -16,6 +16,10 @@ sites:
     url: https://developers-oaplus-staging.line-rc.biz/
     expectedStatusCodes:
       - 404
+  - name: Developers OAplus
+    url: https://developers-oaplus.line.biz/
+    expectedStatusCodes:
+      - 404
   - name: MyShop API
     url: https://developers-oaplus.line.biz/myshop/api/health
     expectedStatusCodes:
