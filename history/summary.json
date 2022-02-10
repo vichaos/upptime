@@ -109,22 +109,22 @@
   },
   {
     "name": "SC",
-    "url": "https://shop.line.me/",
+    "url": "https://shop.line.me/home",
     "icon": "https://favicons.githubusercontent.com/shop.line.me",
     "slug": "sc",
-    "status": "down",
-    "uptime": "14.81%",
-    "uptimeDay": "14.81%",
-    "uptimeWeek": "14.81%",
-    "uptimeMonth": "14.81%",
-    "uptimeYear": "14.81%",
-    "time": 2103,
-    "timeDay": 2103,
-    "timeWeek": 2103,
-    "timeMonth": 2103,
-    "timeYear": 2103,
+    "status": "up",
+    "uptime": "9.84%",
+    "uptimeDay": "9.84%",
+    "uptimeWeek": "9.84%",
+    "uptimeMonth": "9.84%",
+    "uptimeYear": "9.84%",
+    "time": 1307,
+    "timeDay": 1307,
+    "timeWeek": 1307,
+    "timeMonth": 1307,
+    "timeYear": 1307,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 2
     }
   },
   {
