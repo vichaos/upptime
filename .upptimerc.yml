@@ -31,9 +31,7 @@ sites:
   - name: OA Plus - partner API
     url: https://api-oaplus-partner.line-apps.com/v1/jwks/jwks.json
   - name: SC
-    url: https://shop.line.me/
-    expectedStatusCodes:
-      - 302
+    url: https://shop.line.me/home
   - name: SC storefront productend
     url: https://shop.line.me/@024azltq/product/319384970
   - name: SC storefront shopend
