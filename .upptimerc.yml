@@ -12,19 +12,15 @@ workflowSchedule:
   uptime: "*/1 * * * *"
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: LINE Sentry 
+  - name: LINE Sentry(https://sentry9-th.line-apps.com) 
     url: https://sentry9-th.line-apps.com/_health/
-  - name: Developers OAplus Staging
-    url: https://developers-oaplus-staging.line-rc.biz/
-    expectedStatusCodes:
-      - 404
-  - name: Developers OAplus
+  - name: OAplus(https://oaplus.line.biz)
+    url: https://oaplus.line.biz/health
+  - name: Developers OAplus(https://developers-oaplus.line.biz/)
     url: https://developers-oaplus.line.biz/
     expectedStatusCodes:
       - 404
-  - name: MyShop API
+  - name: MyShop API(https://developers-oaplus.line.biz/myshop/api)
     url: https://developers-oaplus.line.biz/myshop/api/health
     expectedStatusCodes:
       - 401
