@@ -12,22 +12,44 @@ workflowSchedule:
   uptime: "*/1 * * * *"
 
 sites:
-  - name: LINE Sentry(https://sentry9-th.line-apps.com) 
+  - name: Sentry
     url: https://sentry9-th.line-apps.com/_health/
-  - name: OAplus(https://oaplus.line.biz)
+  - name: OAplus
     url: https://oaplus.line.biz/health
-  - name: Developers OAplus(https://developers-oaplus.line.biz/)
+  - name: OAplus - Developers 
     url: https://developers-oaplus.line.biz/
     expectedStatusCodes:
       - 404
-  - name: MyShop API(https://developers-oaplus.line.biz/myshop/api)
-    url: https://developers-oaplus.line.biz/myshop/api/health
+  - name: OA Plus - LIFF
+    url: https://web-api-oaplus.line.me
+    expectedStatusCodes:
+      - 404
+  - name: OA Plus - mobile API
+    url: https://api-oaplus-mobile.line-apps.com/account/v1/accounts
     expectedStatusCodes:
       - 401
+  - name: OA Plus - partner API
+    url: https://api-oaplus-partner.line-apps.com/v1/jwks/jwks.json
+  - name: SC
+    url: https://shop.line.me/
+    expectedStatusCodes:
+      - 302
+  - name: SC storefront productend
+    url: https://shop.line.me/@024azltq/product/319384970
+  - name: SC storefront shopend
+    url: https://shop.line.me/@024azltq
   - name: MyShop API with Authorization Header
     url: https://developers-oaplus.line.biz/myshop/api/health
     headers:
       - "x-api-key: $MYSHOP_API_KEYS"
+  - name: Horoscope
+    url: https://horoscope.line.me
+  - name: TodayShowcase
+    url: https://todayshowcase.line.me
+  - name: Melody
+    url: https://melody.line.me
+  - name: Sticker Channel API
+    url: https://sticker-channel-api.line.me/monitor/l7check
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
