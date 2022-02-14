@@ -4,12 +4,12 @@ repo: upptime # The name of this repository
 
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "*/10 * * * *"
+  responseTime: "0 1 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/1 * * * *"
+  uptime: "0 1 * * *"
 
 sites:
   - name: Sentry
