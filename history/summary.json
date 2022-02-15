@@ -4,20 +4,18 @@
     "url": "https://8b76-184-22-119-170.ngrok.io",
     "icon": "https://favicons.githubusercontent.com/8b76-184-22-119-170.ngrok.io",
     "slug": "test",
-    "status": "down",
-    "uptime": "90.08%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "90.08%",
-    "uptimeMonth": "90.08%",
-    "uptimeYear": "90.08%",
-    "time": 517,
-    "timeDay": 517,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
-    "dailyMinutesDown": {
-      "2022-02-15": 5
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 525,
+    "timeDay": 525,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sentry",
