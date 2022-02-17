@@ -36,6 +36,7 @@ sites:
     url: https://shop.line.me/
     expectedStatusCodes:
       - 302
+      - 200
   - name: SC storefront productend
     url: https://shop.line.me/@024azltq/product/319384970
   - name: SC storefront shopend
