@@ -4,12 +4,12 @@ repo: upptime # The name of this repository
 
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "0 1 * * *"
+  responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "0 1 * * *"
+  uptime: "*/5 * * * *"
 
 sites:
   - name: http_inspect
@@ -33,7 +33,9 @@ sites:
   - name: OA Plus - partner API
     url: https://api-oaplus-partner.line-apps.com/v1/jwks/jwks.json
   - name: SC
-    url: https://shop.line.me/home
+    url: https://shop.line.me/
+    expectedStatusCodes:
+      - 302
   - name: SC storefront productend
     url: https://shop.line.me/@024azltq/product/319384970
   - name: SC storefront shopend
@@ -52,6 +54,8 @@ sites:
     url: https://sticker-channel-api.line.me/monitor/l7check
 
 status-website:
+  theme: dark
+  robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
@@ -68,3 +72,4 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+user-agent: $OWNER
