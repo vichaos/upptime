@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/ea5b-184-22-193-217.ngrok.io",
     "slug": "http-inspect",
     "status": "down",
-    "uptime": "92.23%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "92.23%",
-    "uptimeMonth": "92.23%",
-    "uptimeYear": "92.23%",
+    "uptime": "85.88%",
+    "uptimeDay": "85.88%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "85.88%",
+    "uptimeYear": "85.88%",
     "time": 470,
     "timeDay": 470,
     "timeWeek": 470,
     "timeMonth": 470,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2022-02-17": 24
+      "2022-02-17": 47
     }
   },
   {
@@ -122,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 553,
     "timeDay": 493,
-    "timeWeek": 552,
+    "timeWeek": 553,
     "timeMonth": 553,
     "timeYear": 553,
     "dailyMinutesDown": {}
@@ -132,15 +132,15 @@
     "url": "https://shop.line.me/",
     "icon": "https://favicons.githubusercontent.com/shop.line.me",
     "slug": "sc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 1028,
-    "timeDay": 1005,
-    "timeWeek": 1026,
+    "timeDay": 1016,
+    "timeWeek": 1027,
     "timeMonth": 1028,
     "timeYear": 1028,
     "dailyMinutesDown": {
@@ -161,7 +161,7 @@
     "uptimeYear": "100.00%",
     "time": 404,
     "timeDay": 340,
-    "timeWeek": 400,
+    "timeWeek": 401,
     "timeMonth": 404,
     "timeYear": 404,
     "dailyMinutesDown": {}
@@ -179,7 +179,7 @@
     "uptimeYear": "100.00%",
     "time": 388,
     "timeDay": 361,
-    "timeWeek": 383,
+    "timeWeek": 384,
     "timeMonth": 388,
     "timeYear": 388,
     "dailyMinutesDown": {}
@@ -218,7 +218,7 @@
     "uptimeYear": "100.00%",
     "time": 554,
     "timeDay": 481,
-    "timeWeek": 552,
+    "timeWeek": 553,
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {}
@@ -236,7 +236,7 @@
     "uptimeYear": "100.00%",
     "time": 904,
     "timeDay": 822,
-    "timeWeek": 901,
+    "timeWeek": 902,
     "timeMonth": 904,
     "timeYear": 904,
     "dailyMinutesDown": {}
