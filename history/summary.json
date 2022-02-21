@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 568,
     "timeDay": 564,
-    "timeWeek": 568,
+    "timeWeek": 571,
     "timeMonth": 568,
     "timeYear": 568,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 561,
     "timeDay": 530,
-    "timeWeek": 559,
+    "timeWeek": 546,
     "timeMonth": 561,
     "timeYear": 561,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 558,
     "timeDay": 537,
-    "timeWeek": 550,
+    "timeWeek": 531,
     "timeMonth": 558,
     "timeYear": 558,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 556,
     "timeDay": 536,
-    "timeWeek": 565,
+    "timeWeek": 563,
     "timeMonth": 556,
     "timeYear": 556,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 553,
     "timeDay": 544,
-    "timeWeek": 576,
+    "timeWeek": 546,
     "timeMonth": 553,
     "timeYear": 553,
     "dailyMinutesDown": {}
@@ -112,18 +112,19 @@
     "url": "https://shop.line.me/",
     "icon": "https://favicons.githubusercontent.com/shop.line.me",
     "slug": "sc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 1067,
-    "timeDay": 1876,
-    "timeWeek": 1174,
+    "timeDay": 1724,
+    "timeWeek": 1268,
     "timeMonth": 1067,
     "timeYear": 1067,
     "dailyMinutesDown": {
+      "2022-02-21": 0,
       "2022-02-17": 23,
       "2022-02-10": 2
     }
@@ -141,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 406,
     "timeDay": 545,
-    "timeWeek": 383,
+    "timeWeek": 406,
     "timeMonth": 406,
     "timeYear": 406,
     "dailyMinutesDown": {}
@@ -159,7 +160,7 @@
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 557,
-    "timeWeek": 399,
+    "timeWeek": 414,
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {}
@@ -170,14 +171,14 @@
     "icon": "https://favicons.githubusercontent.com/developers-oaplus.line.biz",
     "slug": "my-shop-api-with-authorization-header",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 408,
     "timeDay": 423,
-    "timeWeek": 429,
+    "timeWeek": 428,
     "timeMonth": 408,
     "timeYear": 408,
     "dailyMinutesDown": {
@@ -198,7 +199,7 @@
     "uptimeYear": "100.00%",
     "time": 555,
     "timeDay": 534,
-    "timeWeek": 573,
+    "timeWeek": 584,
     "timeMonth": 555,
     "timeYear": 555,
     "dailyMinutesDown": {}
@@ -216,7 +217,7 @@
     "uptimeYear": "100.00%",
     "time": 905,
     "timeDay": 884,
-    "timeWeek": 958,
+    "timeWeek": 993,
     "timeMonth": 905,
     "timeYear": 905,
     "dailyMinutesDown": {}
@@ -234,7 +235,7 @@
     "uptimeYear": "100.00%",
     "time": 555,
     "timeDay": 538,
-    "timeWeek": 556,
+    "timeWeek": 540,
     "timeMonth": 555,
     "timeYear": 555,
     "dailyMinutesDown": {}
@@ -252,7 +253,7 @@
     "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 528,
-    "timeWeek": 550,
+    "timeWeek": 549,
     "timeMonth": 548,
     "timeYear": 548,
     "dailyMinutesDown": {}
