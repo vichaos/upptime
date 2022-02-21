@@ -12,8 +12,6 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 sites:
-  - name: http_inspect
-    url: https://5f6e-184-22-193-217.ngrok.io
   - name: Sentry
     url: https://sentry9-th.line-apps.com/_health/
   - name: OAplus
