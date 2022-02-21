@@ -1,6 +1,7 @@
 # Change these first
 owner: vichaos # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: vichaos
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -53,7 +54,7 @@ sites:
     url: https://sticker-channel-api.line.me/monitor/l7check
 
 status-website:
-  theme: dark
+  theme: night
   robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -71,4 +72,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-user-agent: vichaos
