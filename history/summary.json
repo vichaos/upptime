@@ -13,7 +13,7 @@
     "time": 568,
     "timeDay": 523,
     "timeWeek": 579,
-    "timeMonth": 571,
+    "timeMonth": 568,
     "timeYear": 568,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 578,
     "timeDay": 478,
     "timeWeek": 584,
-    "timeMonth": 582,
+    "timeMonth": 581,
     "timeYear": 578,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 558,
     "timeDay": 477,
     "timeWeek": 583,
-    "timeMonth": 560,
+    "timeMonth": 559,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 556,
     "timeDay": 461,
     "timeWeek": 566,
-    "timeMonth": 560,
+    "timeMonth": 559,
     "timeYear": 556,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 553,
     "timeDay": 451,
     "timeWeek": 551,
-    "timeMonth": 556,
+    "timeMonth": 557,
     "timeYear": 553,
     "dailyMinutesDown": {}
   },
@@ -112,18 +112,19 @@
     "url": "https://shop.line.me/",
     "icon": "https://favicons.githubusercontent.com/shop.line.me",
     "slug": "sc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 1089,
-    "timeDay": 1199,
-    "timeWeek": 1392,
-    "timeMonth": 1096,
+    "timeDay": 964,
+    "timeWeek": 1379,
+    "timeMonth": 1101,
     "timeYear": 1089,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-02-17": 23,
       "2022-02-10": 2
     }
@@ -142,7 +143,7 @@
     "time": 410,
     "timeDay": 628,
     "timeWeek": 582,
-    "timeMonth": 419,
+    "timeMonth": 432,
     "timeYear": 410,
     "dailyMinutesDown": {}
   },
@@ -160,7 +161,7 @@
     "time": 395,
     "timeDay": 649,
     "timeWeek": 572,
-    "timeMonth": 398,
+    "timeMonth": 403,
     "timeYear": 395,
     "dailyMinutesDown": {}
   },
@@ -199,7 +200,7 @@
     "time": 554,
     "timeDay": 443,
     "timeWeek": 553,
-    "timeMonth": 557,
+    "timeMonth": 556,
     "timeYear": 554,
     "dailyMinutesDown": {}
   },
@@ -217,7 +218,7 @@
     "time": 907,
     "timeDay": 751,
     "timeWeek": 992,
-    "timeMonth": 910,
+    "timeMonth": 905,
     "timeYear": 907,
     "dailyMinutesDown": {}
   },
@@ -235,7 +236,7 @@
     "time": 556,
     "timeDay": 470,
     "timeWeek": 599,
-    "timeMonth": 559,
+    "timeMonth": 558,
     "timeYear": 556,
     "dailyMinutesDown": {}
   },
@@ -253,7 +254,7 @@
     "time": 548,
     "timeDay": 468,
     "timeWeek": 567,
-    "timeMonth": 552,
+    "timeMonth": 554,
     "timeYear": 548,
     "dailyMinutesDown": {}
   }
