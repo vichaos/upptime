@@ -112,18 +112,19 @@
     "url": "https://shop.line.me/",
     "icon": "https://favicons.githubusercontent.com/shop.line.me",
     "slug": "sc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1094,
     "timeDay": 735,
     "timeWeek": 1253,
-    "timeMonth": 1396,
+    "timeMonth": 1394,
     "timeYear": 1094,
     "dailyMinutesDown": {
+      "2022-03-19": 1,
       "2022-02-17": 23,
       "2022-02-10": 2
     }
@@ -133,9 +134,9 @@
     "url": "https://shop.line.me/@024azltq/product/319384970",
     "icon": "https://favicons.githubusercontent.com/shop.line.me",
     "slug": "sc-storefront-productend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +145,9 @@
     "timeWeek": 592,
     "timeMonth": 494,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-19": 0
+    }
   },
   {
     "name": "SC storefront shopend",
