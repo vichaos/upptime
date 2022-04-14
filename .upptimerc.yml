@@ -2,6 +2,7 @@
 owner: vichaos # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 user-agent: vichaos
+skipDeleteIssues: true # Upptime found a down monitor and it was back up within 5 min so the issue will be automatically deleted 
 
 workflowSchedule:
   graphs: "0 0 * * *"
