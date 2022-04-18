@@ -4,19 +4,19 @@
     "url": "https://sentry9-th.line-apps.com/_health/",
     "icon": "https://favicons.githubusercontent.com/sentry9-th.line-apps.com",
     "slug": "sentry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 566,
-    "timeDay": 681,
-    "timeWeek": 581,
+    "timeDay": 627,
+    "timeWeek": 575,
     "timeMonth": 548,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2022-04-18": 0
+      "2022-04-18": 5
     }
   },
   {
