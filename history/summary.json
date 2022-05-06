@@ -4,19 +4,19 @@
     "url": "https://sentry9-th.line-apps.com/_health/",
     "icon": "https://favicons.githubusercontent.com/sentry9-th.line-apps.com",
     "slug": "sentry",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 565,
     "timeDay": 537,
     "timeWeek": 562,
     "timeMonth": 552,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-05-06": 7,
+      "2022-05-06": 13,
       "2022-04-18": 5
     }
   },
@@ -25,11 +25,11 @@
     "url": "https://oaplus.line.biz/health",
     "icon": "https://favicons.githubusercontent.com/oaplus.line.biz",
     "slug": "o-aplus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 577,
     "timeDay": 606,
@@ -37,7 +37,7 @@
     "timeMonth": 580,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-05-06": 6
+      "2022-05-06": 13
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/developers-oaplus.line.biz",
     "slug": "o-aplus-developers",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 558,
     "timeDay": 484,
     "timeWeek": 543,
     "timeMonth": 549,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-05-06": 6
+      "2022-05-06": 10
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://web-api-oaplus.line.me",
     "icon": "https://favicons.githubusercontent.com/web-api-oaplus.line.me",
     "slug": "oa-plus-liff",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 555,
     "timeDay": 472,
     "timeWeek": 511,
     "timeMonth": 543,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2022-05-06": 5
+      "2022-05-06": 12
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://api-oaplus-mobile.line-apps.com/account/v1/accounts",
     "icon": "https://favicons.githubusercontent.com/api-oaplus-mobile.line-apps.com",
     "slug": "oa-plus-mobile-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 553,
     "timeDay": 506,
     "timeWeek": 528,
     "timeMonth": 542,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-05-06": 5
+      "2022-05-06": 11
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://api-oaplus-partner.line-apps.com/v1/jwks/jwks.json",
     "icon": "https://favicons.githubusercontent.com/api-oaplus-partner.line-apps.com",
     "slug": "oa-plus-partner-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 550,
     "timeDay": 506,
     "timeWeek": 520,
     "timeMonth": 537,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2022-05-06": 5
+      "2022-05-06": 7
     }
   },
   {
@@ -187,11 +187,11 @@
     "url": "https://developers-oaplus.line.biz/myshop/api/health",
     "icon": "https://favicons.githubusercontent.com/developers-oaplus.line.biz",
     "slug": "my-shop-api-with-authorization-header",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.95%",
     "time": 409,
     "timeDay": 371,
@@ -199,7 +199,7 @@
     "timeMonth": 406,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2022-05-06": 4,
+      "2022-05-06": 10,
       "2022-02-08": 44,
       "2022-01-24": 26
     }
@@ -209,10 +209,10 @@
     "url": "https://horoscope.line.me",
     "icon": "https://favicons.githubusercontent.com/horoscope.line.me",
     "slug": "horoscope",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 552,
@@ -221,7 +221,7 @@
     "timeMonth": 534,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-05-06": 5
+      "2022-05-06": 6
     }
   },
   {
@@ -265,19 +265,19 @@
     "url": "https://sticker-channel-api.line.me/monitor/l7check",
     "icon": "https://favicons.githubusercontent.com/sticker-channel-api.line.me",
     "slug": "sticker-channel-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 546,
     "timeDay": 465,
     "timeWeek": 532,
     "timeMonth": 530,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2022-05-06": 3
+      "2022-05-06": 9
     }
   }
 ]
