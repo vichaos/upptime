@@ -5,17 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/sentry9-th.line-apps.com",
     "slug": "sentry",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 565,
     "timeDay": 537,
     "timeWeek": 562,
     "timeMonth": 552,
     "timeYear": 565,
     "dailyMinutesDown": {
+      "2022-05-06": 2,
       "2022-04-18": 5
     }
   },
@@ -26,8 +27,8 @@
     "slug": "o-aplus",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
@@ -35,7 +36,9 @@
     "timeWeek": 613,
     "timeMonth": 580,
     "timeYear": 577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 2
+    }
   },
   {
     "name": "OAplus - Developers",
@@ -44,8 +47,8 @@
     "slug": "o-aplus-developers",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
@@ -53,7 +56,9 @@
     "timeWeek": 543,
     "timeMonth": 549,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 1
+    }
   },
   {
     "name": "OA Plus - LIFF",
@@ -62,8 +67,8 @@
     "slug": "oa-plus-liff",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
@@ -71,7 +76,9 @@
     "timeWeek": 511,
     "timeMonth": 543,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 1
+    }
   },
   {
     "name": "OA Plus - mobile API",
@@ -80,7 +87,7 @@
     "slug": "oa-plus-mobile-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,17 +96,19 @@
     "timeWeek": 528,
     "timeMonth": 542,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "OA Plus - partner API",
     "url": "https://api-oaplus-partner.line-apps.com/v1/jwks/jwks.json",
     "icon": "https://favicons.githubusercontent.com/api-oaplus-partner.line-apps.com",
     "slug": "oa-plus-partner-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 550,
@@ -107,7 +116,9 @@
     "timeWeek": 525,
     "timeMonth": 539,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 1
+    }
   },
   {
     "name": "SC",
@@ -197,9 +208,9 @@
     "url": "https://horoscope.line.me",
     "icon": "https://favicons.githubusercontent.com/horoscope.line.me",
     "slug": "horoscope",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,7 +219,9 @@
     "timeWeek": 524,
     "timeMonth": 540,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "TodayShowcase",
