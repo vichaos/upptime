@@ -235,10 +235,10 @@
     "url": "https://todayshowcase.line.me",
     "icon": "https://favicons.githubusercontent.com/todayshowcase.line.me",
     "slug": "today-showcase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 921,
@@ -246,7 +246,9 @@
     "timeWeek": 1060,
     "timeMonth": 1008,
     "timeYear": 921,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 1
+    }
   },
   {
     "name": "Melody",
