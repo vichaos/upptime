@@ -258,9 +258,9 @@
     "url": "https://melody.line.me",
     "icon": "https://favicons.githubusercontent.com/melody.line.me",
     "slug": "melody",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,6 +270,7 @@
     "timeMonth": 382,
     "timeYear": 538,
     "dailyMinutesDown": {
+      "2022-05-31": 1,
       "2022-05-30": 1
     }
   },
