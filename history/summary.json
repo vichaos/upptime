@@ -129,12 +129,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1130,
     "timeDay": 1608,
-    "timeWeek": 1578,
+    "timeWeek": 1546,
     "timeMonth": 1435,
     "timeYear": 1130,
     "dailyMinutesDown": {
@@ -176,9 +176,9 @@
     "url": "https://shop.line.me/@024azltq",
     "icon": "https://favicons.githubusercontent.com/shop.line.me",
     "slug": "sc-storefront-shopend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -187,7 +187,9 @@
     "timeWeek": 813,
     "timeMonth": 532,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   },
   {
     "name": "MyShop API with Authorization Header",
@@ -258,12 +260,12 @@
     "slug": "melody",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 538,
-    "timeDay": 518,
+    "timeDay": 231,
     "timeWeek": 639,
     "timeMonth": 382,
     "timeYear": 538,
