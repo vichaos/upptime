@@ -247,9 +247,9 @@
     "url": "https://todayshowcase.line.me",
     "icon": "https://favicons.githubusercontent.com/todayshowcase.line.me",
     "slug": "today-showcase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -259,6 +259,7 @@
     "timeMonth": 1001,
     "timeYear": 922,
     "dailyMinutesDown": {
+      "2022-06-07": 0,
       "2022-05-29": 1
     }
   },
