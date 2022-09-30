@@ -134,16 +134,16 @@
     "url": "https://shop.line.me/",
     "icon": "https://favicons.githubusercontent.com/shop.line.me",
     "slug": "sc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1228,
-    "timeDay": 1356,
-    "timeWeek": 1442,
-    "timeMonth": 1498,
+    "timeDay": 1341,
+    "timeWeek": 1434,
+    "timeMonth": 1494,
     "timeYear": 1228,
     "dailyMinutesDown": {
       "2022-09-30": 2,
@@ -210,8 +210,7 @@
       "2022-06-04": 1,
       "2022-06-01": 3,
       "2022-05-29": 2,
-      "2022-05-27": 1,
-      "2022-05-25": 1
+      "2022-05-27": 1
     }
   },
   {
