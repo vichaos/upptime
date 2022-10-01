@@ -1,7 +1,7 @@
 url: https://shop.line.me/
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2022-09-30T23:11:46.499Z
+status: down
+code: 504
+responseTime: 1629
+lastUpdated: 2022-10-01T06:21:13.894Z
 startTime: Thu Feb 10 2022 08:56:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
