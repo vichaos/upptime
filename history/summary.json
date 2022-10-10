@@ -134,10 +134,10 @@
     "url": "https://shop.line.me/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.line.me.ico",
     "slug": "sc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 1235,
@@ -146,6 +146,7 @@
     "timeMonth": 1463,
     "timeYear": 1235,
     "dailyMinutesDown": {
+      "2022-10-10": 1,
       "2022-10-06": 1,
       "2022-10-04": 3,
       "2022-10-01": 3,
@@ -209,7 +210,7 @@
       "2022-06-08": 2,
       "2022-06-07": 3,
       "2022-06-06": 1,
-      "2022-06-05": 2
+      "2022-06-05": 1
     }
   },
   {
@@ -217,10 +218,10 @@
     "url": "https://shop.line.me/@024azltq/product/319384970",
     "icon": "https://icons.duckduckgo.com/ip3/shop.line.me.ico",
     "slug": "sc-storefront-productend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 401,
@@ -229,6 +230,7 @@
     "timeMonth": 521,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2022-10-10": 0,
       "2022-10-06": 1,
       "2022-10-04": 2,
       "2022-09-27": 1,
