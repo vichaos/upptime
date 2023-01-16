@@ -270,16 +270,17 @@
     "slug": "sc-storefront-shopend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
-    "timeDay": 889,
-    "timeWeek": 695,
-    "timeMonth": 534,
+    "timeDay": 472,
+    "timeWeek": 615,
+    "timeMonth": 519,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2023-01-16": 0,
       "2022-05-31": 2
     }
   },
