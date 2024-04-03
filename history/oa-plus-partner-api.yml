@@ -1,7 +1,7 @@
 url: https://api-oaplus-partner.line-apps.com/v1/jwks/jwks.json
 status: up
 code: 200
-responseTime: 404
-lastUpdated: 2024-04-02T23:08:48.526Z
+responseTime: 500
+lastUpdated: 2024-04-03T23:08:00.958Z
 startTime: 2022-02-10T08:56:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
