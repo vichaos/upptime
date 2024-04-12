@@ -1,7 +1,7 @@
 url: https://melody.line.me
-status: up
-code: 200
-responseTime: 617
-lastUpdated: 2024-04-11T23:09:54.643Z
+status: down
+code: 503
+responseTime: 3505
+lastUpdated: 2024-04-12T16:24:04.755Z
 startTime: 2022-02-10T08:56:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
