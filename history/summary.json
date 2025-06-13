@@ -168,12 +168,12 @@
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 877,
     "timeDay": 979,
     "timeWeek": 794,
-    "timeMonth": 947,
+    "timeMonth": 972,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2025-06-05": 1,
@@ -240,7 +240,7 @@
     "time": 1016,
     "timeDay": 1507,
     "timeWeek": 1212,
-    "timeMonth": 1477,
+    "timeMonth": 1436,
     "timeYear": 1171,
     "dailyMinutesDown": {
       "2025-06-12": 1,
@@ -314,7 +314,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/developers-oaplus.line.biz.ico",
     "slug": "my-shop-api-with-authorization-header",
     "status": "down",
-    "uptime": "54.02%",
+    "uptime": "54.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -325,7 +325,8 @@
     "timeMonth": 457,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2025-06-12": 1432,
+      "2025-06-13": 125,
+      "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -688,8 +689,7 @@
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
-      "2024-06-14": 1440,
-      "2024-06-13": 1440
+      "2024-06-14": 1440
     }
   },
   {
@@ -716,7 +716,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/todayshowcase.line.me.ico",
     "slug": "today-showcase",
     "status": "down",
-    "uptime": "36.02%",
+    "uptime": "36.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -727,7 +727,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-12": 1432,
+      "2025-06-13": 125,
+      "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -1090,8 +1091,7 @@
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
-      "2024-06-14": 1440,
-      "2024-06-13": 1440
+      "2024-06-14": 1440
     }
   },
   {
