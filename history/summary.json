@@ -4,19 +4,20 @@
     "url": "https://sentry9-th.line-apps.com/_health/",
     "icon": "https://icons.duckduckgo.com/ip3/sentry9-th.line-apps.com.ico",
     "slug": "sentry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 659,
     "timeDay": 707,
     "timeWeek": 762,
     "timeMonth": 685,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2025-08-10": 21,
+      "2025-08-11": 1,
+      "2025-08-10": 25,
       "2025-08-09": 5
     }
   },
@@ -25,11 +26,11 @@
     "url": "https://oaplus.line.biz/health",
     "icon": "https://icons.duckduckgo.com/ip3/oaplus.line.biz.ico",
     "slug": "o-aplus",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 708,
     "timeDay": 790,
@@ -37,7 +38,8 @@
     "timeMonth": 755,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2025-08-10": 17,
+      "2025-08-11": 1,
+      "2025-08-10": 20,
       "2025-08-09": 4
     }
   },
@@ -46,11 +48,11 @@
     "url": "https://developers-oaplus.line.biz/",
     "icon": "https://icons.duckduckgo.com/ip3/developers-oaplus.line.biz.ico",
     "slug": "o-aplus-developers",
-    "status": "up",
+    "status": "down",
     "uptime": "93.47%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 682,
     "timeDay": 809,
@@ -58,7 +60,8 @@
     "timeMonth": 706,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2025-08-10": 17,
+      "2025-08-11": 1,
+      "2025-08-10": 20,
       "2025-08-09": 4
     }
   },
@@ -67,10 +70,10 @@
     "url": "https://web-api-oaplus.line.me",
     "icon": "https://icons.duckduckgo.com/ip3/web-api-oaplus.line.me.ico",
     "slug": "oa-plus-liff",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 670,
@@ -79,7 +82,8 @@
     "timeMonth": 676,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-08-10": 13,
+      "2025-08-11": 1,
+      "2025-08-10": 15,
       "2025-08-09": 3
     }
   },
@@ -88,11 +92,11 @@
     "url": "https://api-oaplus-mobile.line-apps.com/account/v1/accounts",
     "icon": "https://icons.duckduckgo.com/ip3/api-oaplus-mobile.line-apps.com.ico",
     "slug": "oa-plus-mobile-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 630,
     "timeDay": 686,
@@ -100,7 +104,8 @@
     "timeMonth": 653,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-08-10": 13,
+      "2025-08-11": 1,
+      "2025-08-10": 15,
       "2025-08-09": 3,
       "2024-12-31": 1
     }
@@ -110,10 +115,10 @@
     "url": "https://api-oaplus-partner.line-apps.com/v1/jwks/jwks.json",
     "icon": "https://icons.duckduckgo.com/ip3/api-oaplus-partner.line-apps.com.ico",
     "slug": "oa-plus-partner-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 630,
@@ -122,7 +127,8 @@
     "timeMonth": 674,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2025-08-10": 9,
+      "2025-08-11": 1,
+      "2025-08-10": 10,
       "2025-08-09": 2,
       "2024-12-31": 0
     }
@@ -350,7 +356,8 @@
     "timeMonth": 475,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2025-08-10": 1407,
+      "2025-08-11": 1,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -713,8 +720,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -722,10 +728,10 @@
     "url": "https://horoscope.line.me",
     "icon": "https://icons.duckduckgo.com/ip3/horoscope.line.me.ico",
     "slug": "horoscope",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 664,
@@ -734,6 +740,7 @@
     "timeMonth": 679,
     "timeYear": 689,
     "dailyMinutesDown": {
+      "2025-08-11": 1,
       "2025-08-10": 5,
       "2025-08-09": 1
     }
@@ -755,7 +762,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 1407,
+      "2025-08-11": 1,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -1118,8 +1126,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -1153,9 +1160,9 @@
     "url": "https://sticker-channel-api.line.me/monitor/l7check",
     "icon": "https://icons.duckduckgo.com/ip3/sticker-channel-api.line.me.ico",
     "slug": "sticker-channel-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.72%",
+    "uptimeDay": "99.68%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
@@ -1165,6 +1172,7 @@
     "timeMonth": 660,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2025-08-11": 0,
       "2025-08-10": 5,
       "2025-08-09": 1,
       "2024-11-04": 1
