@@ -1,7 +1,7 @@
 url: https://sentry9-th.line-apps.com/_health/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-15T20:19:29.807Z
+status: up
+code: 200
+responseTime: 683
+lastUpdated: 2025-08-15T20:24:58.508Z
 startTime: 2022-02-10T08:56:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
