@@ -1,7 +1,7 @@
 url: https://api-oaplus-mobile.line-apps.com/account/v1/accounts
-status: up
-code: 401
-responseTime: 557
-lastUpdated: 2025-11-23T21:54:35.345Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-11-23T22:01:58.477Z
 startTime: 2022-02-10T08:56:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
