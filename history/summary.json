@@ -4,19 +4,19 @@
     "url": "https://sentry9-th.line-apps.com/_health/",
     "icon": "https://icons.duckduckgo.com/ip3/sentry9-th.line-apps.com.ico",
     "slug": "sentry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.90%",
     "time": 684,
     "timeDay": 863,
-    "timeWeek": 687,
+    "timeWeek": 704,
     "timeMonth": 702,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2025-12-07": 21,
+      "2025-12-07": 25,
       "2025-11-30": 31,
       "2025-11-24": 10,
       "2025-11-23": 50,
@@ -37,7 +37,7 @@
       "2025-09-19": 5,
       "2025-09-18": 17,
       "2025-09-17": 18,
-      "2025-09-16": 13
+      "2025-09-16": 8
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://oaplus.line.biz/health",
     "icon": "https://icons.duckduckgo.com/ip3/oaplus.line.biz.ico",
     "slug": "o-aplus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.91%",
     "time": 734,
     "timeDay": 774,
-    "timeWeek": 687,
+    "timeWeek": 707,
     "timeMonth": 744,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2025-12-07": 18,
+      "2025-12-07": 22,
       "2025-11-30": 25,
       "2025-11-24": 9,
       "2025-11-23": 43,
@@ -78,7 +78,7 @@
       "2025-09-19": 4,
       "2025-09-18": 14,
       "2025-09-17": 18,
-      "2025-09-16": 12
+      "2025-09-16": 7
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "https://developers-oaplus.line.biz/",
     "icon": "https://icons.duckduckgo.com/ip3/developers-oaplus.line.biz.ico",
     "slug": "o-aplus-developers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.90%",
     "time": 709,
     "timeDay": 623,
-    "timeWeek": 649,
+    "timeWeek": 645,
     "timeMonth": 695,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2025-12-07": 17,
+      "2025-12-07": 21,
       "2025-11-30": 25,
       "2025-11-24": 9,
       "2025-11-23": 42,
@@ -119,7 +119,7 @@
       "2025-09-19": 4,
       "2025-09-18": 14,
       "2025-09-17": 18,
-      "2025-09-16": 11
+      "2025-09-16": 6
     }
   },
   {
@@ -127,19 +127,19 @@
     "url": "https://web-api-oaplus.line.me",
     "icon": "https://icons.duckduckgo.com/ip3/web-api-oaplus.line.me.ico",
     "slug": "oa-plus-liff",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.91%",
     "time": 691,
     "timeDay": 667,
-    "timeWeek": 676,
+    "timeWeek": 657,
     "timeMonth": 714,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-12-07": 14,
+      "2025-12-07": 17,
       "2025-11-30": 19,
       "2025-11-24": 7,
       "2025-11-23": 33,
@@ -160,7 +160,7 @@
       "2025-09-19": 3,
       "2025-09-18": 11,
       "2025-09-17": 15,
-      "2025-09-16": 9
+      "2025-09-16": 5
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "https://api-oaplus-mobile.line-apps.com/account/v1/accounts",
     "icon": "https://icons.duckduckgo.com/ip3/api-oaplus-mobile.line-apps.com.ico",
     "slug": "oa-plus-mobile-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.92%",
     "time": 652,
     "timeDay": 667,
-    "timeWeek": 657,
+    "timeWeek": 632,
     "timeMonth": 673,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-12-07": 13,
+      "2025-12-07": 16,
       "2025-11-30": 19,
       "2025-11-24": 7,
       "2025-11-23": 31,
@@ -201,7 +201,7 @@
       "2025-09-19": 3,
       "2025-09-18": 11,
       "2025-09-17": 15,
-      "2025-09-16": 12
+      "2025-09-16": 8
     }
   },
   {
@@ -209,19 +209,19 @@
     "url": "https://api-oaplus-partner.line-apps.com/v1/jwks/jwks.json",
     "icon": "https://icons.duckduckgo.com/ip3/api-oaplus-partner.line-apps.com.ico",
     "slug": "oa-plus-partner-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.86%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.93%",
     "time": 647,
     "timeDay": 608,
-    "timeWeek": 586,
+    "timeWeek": 589,
     "timeMonth": 659,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-12-07": 10,
+      "2025-12-07": 12,
       "2025-11-30": 13,
       "2025-11-24": 5,
       "2025-11-23": 23,
@@ -242,7 +242,7 @@
       "2025-09-19": 2,
       "2025-09-18": 8,
       "2025-09-17": 12,
-      "2025-09-16": 9
+      "2025-09-16": 6
     }
   },
   {
@@ -288,7 +288,7 @@
     "time": 1069,
     "timeDay": 1212,
     "timeWeek": 468,
-    "timeMonth": 806,
+    "timeMonth": 794,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-11-26": 1,
@@ -468,7 +468,7 @@
     "timeMonth": 466,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2025-12-07": 1098,
+      "2025-12-07": 1233,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
@@ -840,19 +840,19 @@
     "url": "https://horoscope.line.me",
     "icon": "https://icons.duckduckgo.com/ip3/horoscope.line.me.ico",
     "slug": "horoscope",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.89%",
     "time": 672,
     "timeDay": 632,
-    "timeWeek": 572,
+    "timeWeek": 583,
     "timeMonth": 634,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-12-07": 6,
+      "2025-12-07": 7,
       "2025-11-30": 7,
       "2025-11-24": 3,
       "2025-11-23": 38,
@@ -873,7 +873,7 @@
       "2025-09-19": 1,
       "2025-09-18": 5,
       "2025-09-17": 8,
-      "2025-09-16": 4
+      "2025-09-16": 2
     }
   },
   {
@@ -893,7 +893,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-07": 1098,
+      "2025-12-07": 1233,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
@@ -1291,19 +1291,19 @@
     "url": "https://sticker-channel-api.line.me/monitor/l7check",
     "icon": "https://icons.duckduckgo.com/ip3/sticker-channel-api.line.me.ico",
     "slug": "sticker-channel-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.67%",
+    "uptimeDay": "99.59%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.89%",
     "time": 642,
     "timeDay": 564,
-    "timeWeek": 571,
+    "timeWeek": 583,
     "timeMonth": 660,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-12-07": 6,
+      "2025-12-07": 7,
       "2025-11-30": 7,
       "2025-11-24": 3,
       "2025-11-23": 38,
@@ -1324,7 +1324,7 @@
       "2025-09-19": 1,
       "2025-09-18": 5,
       "2025-09-17": 8,
-      "2025-09-16": 6
+      "2025-09-16": 4
     }
   }
 ]
