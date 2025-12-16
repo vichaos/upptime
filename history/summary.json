@@ -454,7 +454,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/developers-oaplus.line.biz.ico",
     "slug": "my-shop-api-with-authorization-header",
     "status": "down",
-    "uptime": "46.95%",
+    "uptime": "46.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -465,7 +465,7 @@
     "timeMonth": 531,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-12-16": 55,
+      "2025-12-16": 130,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -889,7 +889,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-16": 55,
+      "2025-12-16": 130,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
