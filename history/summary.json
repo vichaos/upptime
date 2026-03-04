@@ -4,9 +4,9 @@
     "url": "https://sentry9-th.line-apps.com/_health/",
     "icon": "https://icons.duckduckgo.com/ip3/sentry9-th.line-apps.com.ico",
     "slug": "sentry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 797,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2026-03-04": 0,
       "2025-12-28": 5,
       "2025-12-26": 5,
       "2025-12-25": 5,
@@ -39,7 +40,7 @@
       "2025-10-20": 11,
       "2025-10-19": 42,
       "2025-10-12": 90,
-      "2025-10-05": 10
+      "2025-10-05": 5
     }
   },
   {
@@ -389,7 +390,7 @@
     "timeDay": 1388,
     "timeWeek": 766,
     "timeMonth": 926,
-    "timeYear": 1356,
+    "timeYear": 1348,
     "dailyMinutesDown": {
       "2026-03-02": 1,
       "2026-02-17": 1,
@@ -481,7 +482,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/developers-oaplus.line.biz.ico",
     "slug": "my-shop-api-with-authorization-header",
     "status": "down",
-    "uptime": "44.50%",
+    "uptime": "44.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -492,7 +493,7 @@
     "timeMonth": 615,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2026-03-04": 159,
+      "2026-03-04": 561,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -930,7 +931,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 160,
+      "2026-03-04": 561,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
