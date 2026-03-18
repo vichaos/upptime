@@ -494,7 +494,7 @@
     "timeMonth": 586,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2026-03-18": 20,
+      "2026-03-18": 171,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -921,7 +921,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/todayshowcase.line.me.ico",
     "slug": "today-showcase",
     "status": "down",
-    "uptime": "29.33%",
+    "uptime": "29.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -932,7 +932,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 21,
+      "2026-03-18": 171,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
