@@ -13,7 +13,7 @@
     "time": 746,
     "timeDay": 0,
     "timeWeek": 1051,
-    "timeMonth": 865,
+    "timeMonth": 884,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2025-10-05": 5,
@@ -48,19 +48,19 @@
     "url": "https://oaplus.line.biz/health",
     "icon": "https://icons.duckduckgo.com/ip3/oaplus.line.biz.ico",
     "slug": "o-aplus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 803,
     "timeDay": 0,
     "timeWeek": 1048,
-    "timeMonth": 896,
+    "timeMonth": 917,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2025-10-05": 8,
+      "2025-10-05": 4,
       "2025-10-12": 80,
       "2025-10-19": 36,
       "2025-10-20": 9,
@@ -83,7 +83,9 @@
       "2025-12-23": 5,
       "2025-12-25": 4,
       "2025-12-26": 4,
-      "2025-12-28": 4
+      "2025-12-28": 4,
+      "2026-06-22": 1,
+      "2026-06-21": 0
     }
   },
   {
@@ -100,7 +102,7 @@
     "time": 783,
     "timeDay": 0,
     "timeWeek": 828,
-    "timeMonth": 774,
+    "timeMonth": 787,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2025-10-05": 4,
@@ -144,7 +146,7 @@
     "time": 761,
     "timeDay": 0,
     "timeWeek": 871,
-    "timeMonth": 848,
+    "timeMonth": 865,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2025-10-05": 6,
@@ -187,7 +189,7 @@
     "time": 712,
     "timeDay": 0,
     "timeWeek": 906,
-    "timeMonth": 813,
+    "timeMonth": 827,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2025-10-05": 10,
@@ -230,7 +232,7 @@
     "time": 712,
     "timeDay": 0,
     "timeWeek": 837,
-    "timeMonth": 793,
+    "timeMonth": 806,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2025-10-05": 7,
@@ -273,8 +275,8 @@
     "time": 1474,
     "timeDay": 0,
     "timeWeek": 2440,
-    "timeMonth": 1527,
-    "timeYear": 1493,
+    "timeMonth": 1559,
+    "timeYear": 1441,
     "dailyMinutesDown": {
       "2025-06-27": 1,
       "2025-07-07": 2,
@@ -307,10 +309,9 @@
     "time": 1091,
     "timeDay": 0,
     "timeWeek": 1364,
-    "timeMonth": 1138,
+    "timeMonth": 1164,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-06-22": 1,
       "2025-06-25": 1,
       "2025-07-01": 1,
       "2025-07-07": 1,
@@ -386,8 +387,8 @@
     "time": 1299,
     "timeDay": 0,
     "timeWeek": 1641,
-    "timeMonth": 1217,
-    "timeYear": 1198,
+    "timeMonth": 1245,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-06-26": 1,
       "2025-07-03": 2,
@@ -473,7 +474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/developers-oaplus.line.biz.ico",
     "slug": "my-shop-api-with-authorization-header",
     "status": "down",
-    "uptime": "41.48%",
+    "uptime": "41.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -481,10 +482,11 @@
     "time": 528,
     "timeDay": 0,
     "timeWeek": 875,
-    "timeMonth": 778,
+    "timeMonth": 790,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2026-06-21": 303,
+      "2026-06-22": 2,
+      "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -847,8 +849,7 @@
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
-      "2025-06-23": 1440,
-      "2025-06-22": 1440
+      "2025-06-23": 1440
     }
   },
   {
@@ -857,11 +858,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/horoscope.line.me.ico",
     "slug": "horoscope",
     "status": "down",
-    "uptime": "94.13%",
+    "uptime": "94.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.41%",
+    "uptimeYear": "74.19%",
     "time": 724,
     "timeDay": 0,
     "timeWeek": 0,
@@ -902,7 +903,8 @@
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
-      "2026-06-21": 303,
+      "2026-06-22": 2,
+      "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -993,7 +995,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/todayshowcase.line.me.ico",
     "slug": "today-showcase",
     "status": "down",
-    "uptime": "27.57%",
+    "uptime": "27.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1004,7 +1006,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-21": 303,
+      "2026-06-22": 2,
+      "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -1367,8 +1370,7 @@
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
-      "2025-06-23": 1440,
-      "2025-06-22": 1440
+      "2025-06-23": 1440
     }
   },
   {
@@ -1385,8 +1387,8 @@
     "time": 764,
     "timeDay": 0,
     "timeWeek": 731,
-    "timeMonth": 664,
-    "timeYear": 770,
+    "timeMonth": 668,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-07-08": 3,
       "2025-07-15": 1,
@@ -1412,7 +1414,7 @@
     "time": 734,
     "timeDay": 0,
     "timeWeek": 832,
-    "timeMonth": 763,
+    "timeMonth": 774,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2025-10-12": 50,
