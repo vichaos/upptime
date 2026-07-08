@@ -1,7 +1,7 @@
 url: https://sticker-channel-api.line.me/monitor/l7check
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-08T18:09:25.673Z
+status: up
+code: 200
+responseTime: 659
+lastUpdated: 2026-07-08T18:12:03.435Z
 startTime: 2022-02-10T08:56:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
