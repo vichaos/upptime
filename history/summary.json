@@ -301,10 +301,10 @@
     "slug": "sc-storefront-productend",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.12%",
     "time": 1100,
     "timeDay": 224,
     "timeWeek": 1182,
@@ -353,7 +353,7 @@
       "2026-04-27": 1,
       "2026-04-28": 1,
       "2026-05-04": 1,
-      "2026-08-18": 2
+      "2026-08-18": 31
     }
   },
   {
@@ -361,16 +361,16 @@
     "url": "https://shop.line.me/@024azltq",
     "icon": "https://icons.duckduckgo.com/ip3/shop.line.me.ico",
     "slug": "sc-storefront-shopend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1242,
-    "timeDay": 969,
-    "timeWeek": 978,
-    "timeMonth": 1307,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 1241,
+    "timeDay": 881,
+    "timeWeek": 916,
+    "timeMonth": 1270,
     "timeYear": 1120,
     "dailyMinutesDown": {
       "2025-08-20": 1,
@@ -427,7 +427,7 @@
       "2026-03-29": 1,
       "2026-04-05": 1,
       "2026-04-26": 1,
-      "2026-08-18": 2
+      "2026-08-18": 29
     }
   },
   {
@@ -447,7 +447,7 @@
     "timeMonth": 760,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-08-18": 370,
+      "2026-08-18": 399,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -865,7 +865,7 @@
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
-      "2026-08-18": 370,
+      "2026-08-18": 399,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1025,7 +1025,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 370,
+      "2026-08-18": 399,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
