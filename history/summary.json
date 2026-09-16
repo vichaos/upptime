@@ -268,17 +268,17 @@
     "url": "https://shop.line.me/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.line.me.ico",
     "slug": "sc",
-    "status": "down",
+    "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1488,
-    "timeDay": 0,
-    "timeWeek": 1971,
-    "timeMonth": 1655,
-    "timeYear": 1449,
+    "time": 1486,
+    "timeDay": 809,
+    "timeWeek": 1681,
+    "timeMonth": 1578,
+    "timeYear": 1447,
     "dailyMinutesDown": {
       "2025-10-11": 1,
       "2025-11-29": 2,
@@ -291,7 +291,7 @@
       "2026-02-06": 3,
       "2026-03-07": 1,
       "2026-03-26": 1,
-      "2026-09-16": 4
+      "2026-09-16": 5
     }
   },
   {
@@ -299,17 +299,17 @@
     "url": "https://shop.line.me/@024azltq/product/319384970",
     "icon": "https://icons.duckduckgo.com/ip3/shop.line.me.ico",
     "slug": "sc-storefront-productend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 1101,
-    "timeDay": 1921,
-    "timeWeek": 1666,
-    "timeMonth": 1288,
-    "timeYear": 970,
+    "time": 1100,
+    "timeDay": 1788,
+    "timeWeek": 1615,
+    "timeMonth": 1286,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2025-09-26": 1,
       "2025-09-29": 1,
@@ -343,7 +343,7 @@
       "2026-05-04": 1,
       "2026-08-18": 32,
       "2026-09-15": 12,
-      "2026-09-16": 2
+      "2026-09-16": 3
     }
   },
   {
@@ -425,7 +425,7 @@
     "timeMonth": 728,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2026-09-16": 87,
+      "2026-09-16": 89,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -843,7 +843,7 @@
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
-      "2026-09-16": 87,
+      "2026-09-16": 89,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -1032,7 +1032,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-16": 87,
+      "2026-09-16": 89,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
