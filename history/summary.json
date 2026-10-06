@@ -93,16 +93,16 @@
     "url": "https://developers-oaplus.line.biz/",
     "icon": "https://icons.duckduckgo.com/ip3/developers-oaplus.line.biz.ico",
     "slug": "o-aplus-developers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
     "time": 824,
-    "timeDay": 655,
-    "timeWeek": 802,
-    "timeMonth": 815,
+    "timeDay": 705,
+    "timeWeek": 791,
+    "timeMonth": 808,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2025-10-12": 72,
@@ -130,7 +130,7 @@
       "2025-12-28": 4,
       "2026-04-17": 2,
       "2026-07-08": 53,
-      "2026-10-06": 2
+      "2026-10-06": 3
     }
   },
   {
@@ -419,7 +419,7 @@
     "timeMonth": 874,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2026-10-06": 505,
+      "2026-10-06": 507,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -837,7 +837,7 @@
       "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
-      "2026-10-06": 505,
+      "2026-10-06": 507,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -1046,7 +1046,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-06": 505,
+      "2026-10-06": 508,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
